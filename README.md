@@ -1,4 +1,9 @@
 # Collection of "Windows Tweaking Scripts" by mdl052020
+
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020.svg)](https://github.com/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/total.svg)](https://github.com/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/latest/total.svg)](https://github.com/Wilenty/Collection-of-Windows-Tweaking-Scripts-by-mdl052020/releases/latest)
+
 About
 
 A set of "Windows Tweaking Scripts" taken (Prior to Removal - at Author's request) from https://forums.mydigitallife.net/threads/82116
